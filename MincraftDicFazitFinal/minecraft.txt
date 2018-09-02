@@ -1,0 +1,32 @@
+Babychicken	Hühner sind passive Kreaturen, d.h. sie fliehen vor Angriffen, ohne sich zu wehren. Sie flattern die meiste Zeit ziellos umher (in dunkler Umgebung streben sie hellere Bereiche an) und vermeiden dabei Gefahren wie Lava, Kakteen und sogar Abgründe (obwohl sie immun gegen Fallschaden sind). Ab und zu geben sie ein gackerndes Geräusch von sich.
+
+
+Diamand	Diamanten erhält man beim Abbau eines Diamanterz-Blockes. Dazu benötigt man eine Eisen- oder Diamantspitzhacke. Diamanten sind außerdem das einzige Mineral, das nicht farmbar ist.
+
+
+Enderman	Der Enderman (Plural: Endermen) ist der Bewohner des Endes und kommt dort häufig vor. Selten ist er auch in der Oberwelt und im Nether anzutreffen. Er kann sich teleportieren und ist gegenüber dem Spieler neutral,    solange man ihn nicht anschaut oder angreift.
+
+
+ErdBlock	Erde ist, neben Wasser und Stein, einer der am meisten vorkommenden Blöcke in Minecraft und auch einer der ersten, die ins Spiel eingebunden wurden. Auf allen Seiten des Blocks befindet sich die gleiche Textur.
+
+
+Horse	Unter dem Begriff Pferde werden in Minecraft alle Kreaturen zusammengefasst, die den realen Pferden nachempfunden sind.
+
+
+Spider	Spinnen sind neutrale Monster. Sie sind im Gegensatz zu vielen anderen Monstern flach und breit. Im Vergleich zur Höhlenspinne ist die normale Spinne größer, nicht bläulich und ungiftig. Sie gehört zur Gruppe der Gliederfüßer.
+
+
+Werkbank	Die Werkbank wird benutzt, um verschiedene Blöcke, Werkzeuge und andere Gegenstände herzustellen. Ein Rechtsklick auf die Werkbank öffnet ein 3x3-Handwerksquadrat, in dem andere Gegenstände hergestellt werden können. Die Werkbank ist ein Standard-Gegenstand und wird benötigt, um andere Gegenstände herzustellen, die zum weiteren Vorankommen benötigt werden.Es empfiehlt sich, bei längeren Reisen immer eine Werkbank im Inventar mitzuführen, sodass man unterwegs die Möglichkeit hat, neue Werkzeuge oder komplexe Gegenstände herzustellen. Nach Gebrauch kann sie ganz leicht wieder abgebaut und eingesammelt werden.Durch Drücken der von Shift und mit der Maus auf den Gegenstand in der Ausgabe, werden die maximal mögliche Anzahl an Gegenständen hergestellt und in das Inventar des Spielers geschoben. In Dörfern kommen Werkbänke in einigen Häusern natürlich vor.Für eine Liste aller herstellbaren Gegenstände siehe Crafting-Rezepte. Man kann die Rezepte in der Werkbank nachschlagen.Drückt man außerhalb der Werkbank die Taste Shift (Schleichen-Taste), kann man einen Block an oder auf der Werkbank platzieren, ohne das Inventar zu öffnen.Bricht man die Herstellung ab, bevor das Ergebnis ins Inventar gezogen wurde, fallen die Zutaten zurück ins Inventar, sofern dort genug Platz ist. Ansonsten droppen sie vor der Werkbank.
+
+
+Zombies	sind aggressive Monster, die in der gesamten Oberwelt bei einem Lichtlevel kleiner oder gleich 7 spawnen können. Sie bewegen sich ziellos durch die Spielwelt und geben dabei ein Stöhnen von sich. Treffen sie auf Spieler oder Dorfbewohner, verfolgen sie diese, um sie anzugreifen. Neben den normalen Zombies gibt es noch die kleineren und agileren Zombiekinder. Zombiekinder spawnen selten als Hühnerreiter.Erwachsene Dorfbewohner und Kinder können durch Zombie-Angriffe infiziert und in sogenannte Dorfbewohnerzombies umgewandelt werden.Zombies gehören zu den untoten Kreaturen und reagieren empfindlich auf Sonnenlicht.Wolf
+
+Der Wolf	 ist ein wildlebendes Tier, das sich neutral verhält. Er kann gezähmt werden und wird dabei zum Hund.Wölfe streifen zufällig durch die Umgebung und meiden dabei Gefahren wie Abgründe und Lava.Wölfe können im Wasser schwimmen. Geraten sie ins Wasser oder in Regen, färbt sich das Fell dunkel, als wären sie nass geworden. Verlassen sie das Wasser, schütteln sie sich und Wasserpartikel spritzen fort, und sie bekommen wieder ihr normales Aussehen.Wölfe verhalten sich dem Spieler gegenüber neutral, solange er sie nicht angreift. Sie wenden sich dem Spieler zu und blicken ihn kurz an.Wenn ein Spieler einen Wolf angreift, wird dieser mitsamt allen anderen Wölfen in einer Umgebung von 33×33×21 Blöcken feindselig gesinnt und greift den Spieler an. Der Kampf dauert solange an, bis entweder der Spieler oder alle Wölfe getötet worden sind. Wenn der Spieler den Wahrnehmungsbereich aller Wölfe verlässt, bleiben sie feindselig, auch wenn sie wieder neutral aussehen.Wölfe jagen aktiv viele verschiedene Arten von Kreaturen. Sie haben es auf Schafe, Kaninchen und die Jungtiere von Schildkröten abgesehen, aber auch alle Arten von Skeletten sind nicht vor ihnen sicher. Demnach greifen sie Skelette, Eiswanderer und Witherskelette an. Kaninchen und alle Skelette fliehen vorsorglich vor Wölfen, Schafe erst, nachdem sie angegriffen wurden. Eine junge Schildkröte versucht ebenfalls zu fliehen, allerdings bewegt sie sich so langsam fort, dass dies keinen Unterschied macht. Erst, wenn sie auf irgendeine Weise ins Wasser gelangt ist, lassen Wölfe von ihr ab.Wölfe fliehen vor Lamas und werden von diesen auch attackiert. Das Killer-Kaninchen hat es ebenfalls auf Wölfe abgesehen.Wölfe, die momentan Spielern oder den genannten Kreaturen gegenüber feindselig sind, knurren fortwährend und bekommen ein verändertes, aggressiveres Aussehen: rote Augen, ein kontrastreicheres Fell und ihre Rute wird gerade.Wölfe geben charakteristische Laute von sich (siehe Abschnitt Geräusche).
+
+Die Diamantspitzhacke	ist ein häufig genutztes Werkzeug das benutzt wird, um viele Blöcke, insbesondere Erze, abbauen zu können. Verschiedene Qualitäten von Spitzhacken sind erforderlich, um bestimmte Erze und Blöcke erfolgreich abbauen zu können.
+
+Der Wolf	ist ein wildlebendes Tier, das sich neutral verhält. Er kann gezähmt werden und wird dabei zum Hund.
+
+Das Skelett	ist ein aggressives Monster, das den Spieler verfolgt, sobald er in dessen Sichtweite kommt. Es erscheint nur in dunkleren Bereichen (wie z. B. nachts in unbeleuchteten Gebieten auf der Oberfläche oder in unbeleuchteten Höhlen) und in Netherfestungen.
+
+

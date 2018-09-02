@@ -8,20 +8,26 @@
 
 /* Begin PBXBuildFile section */
 		321B1AAA21359A94001AA2B9 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 321B1AA921359A94001AA2B9 /* AppDelegate.swift */; };
-		321B1AAC21359A94001AA2B9 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 321B1AAB21359A94001AA2B9 /* ViewController.swift */; };
-		321B1AAF21359A94001AA2B9 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 321B1AAD21359A94001AA2B9 /* Main.storyboard */; };
-		321B1AB121359A95001AA2B9 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 321B1AB021359A95001AA2B9 /* Assets.xcassets */; };
 		321B1AB421359A95001AA2B9 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 321B1AB221359A95001AA2B9 /* LaunchScreen.storyboard */; };
+		321B1ABC21359AC9001AA2B9 /* DataModle.swift in Sources */ = {isa = PBXBuildFile; fileRef = 321B1ABB21359AC9001AA2B9 /* DataModle.swift */; };
+		321B1ABE21359B61001AA2B9 /* minecraft.txt in Resources */ = {isa = PBXBuildFile; fileRef = 321B1ABD21359B61001AA2B9 /* minecraft.txt */; };
+		321B1AC021359FDD001AA2B9 /* Storyboard.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 321B1ABF21359FDD001AA2B9 /* Storyboard.storyboard */; };
+		321B1AC22135A00F001AA2B9 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 321B1AC12135A00F001AA2B9 /* ViewController.swift */; };
+		321B1AC82135A5DF001AA2B9 /* Media.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 321B1AC72135A5DF001AA2B9 /* Media.xcassets */; };
+		321B1ACA2135AB30001AA2B9 /* DetailViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 321B1AC92135AB30001AA2B9 /* DetailViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
 		321B1AA621359A94001AA2B9 /* MincraftDicFazitFinal.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = MincraftDicFazitFinal.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		321B1AA921359A94001AA2B9 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
-		321B1AAB21359A94001AA2B9 /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
-		321B1AAE21359A94001AA2B9 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
-		321B1AB021359A95001AA2B9 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		321B1AB321359A95001AA2B9 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		321B1AB521359A95001AA2B9 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		321B1ABB21359AC9001AA2B9 /* DataModle.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DataModle.swift; sourceTree = "<group>"; };
+		321B1ABD21359B61001AA2B9 /* minecraft.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = minecraft.txt; sourceTree = "<group>"; };
+		321B1ABF21359FDD001AA2B9 /* Storyboard.storyboard */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; path = Storyboard.storyboard; sourceTree = "<group>"; };
+		321B1AC12135A00F001AA2B9 /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
+		321B1AC72135A5DF001AA2B9 /* Media.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Media.xcassets; sourceTree = "<group>"; };
+		321B1AC92135AB30001AA2B9 /* DetailViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DetailViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -40,6 +46,7 @@
 			children = (
 				321B1AA821359A94001AA2B9 /* MincraftDicFazitFinal */,
 				321B1AA721359A94001AA2B9 /* Products */,
+				321B1AB221359A95001AA2B9 /* LaunchScreen.storyboard */,
 			);
 			sourceTree = "<group>";
 		};
@@ -55,11 +62,13 @@
 			isa = PBXGroup;
 			children = (
 				321B1AA921359A94001AA2B9 /* AppDelegate.swift */,
-				321B1AAB21359A94001AA2B9 /* ViewController.swift */,
-				321B1AAD21359A94001AA2B9 /* Main.storyboard */,
-				321B1AB021359A95001AA2B9 /* Assets.xcassets */,
-				321B1AB221359A95001AA2B9 /* LaunchScreen.storyboard */,
 				321B1AB521359A95001AA2B9 /* Info.plist */,
+				321B1ABB21359AC9001AA2B9 /* DataModle.swift */,
+				321B1ABF21359FDD001AA2B9 /* Storyboard.storyboard */,
+				321B1AC92135AB30001AA2B9 /* DetailViewController.swift */,
+				321B1AC12135A00F001AA2B9 /* ViewController.swift */,
+				321B1ABD21359B61001AA2B9 /* minecraft.txt */,
+				321B1AC72135A5DF001AA2B9 /* Media.xcassets */,
 			);
 			path = MincraftDicFazitFinal;
 			sourceTree = "<group>";
@@ -123,8 +132,9 @@
 			buildActionMask = 2147483647;
 			files = (
 				321B1AB421359A95001AA2B9 /* LaunchScreen.storyboard in Resources */,
-				321B1AB121359A95001AA2B9 /* Assets.xcassets in Resources */,
-				321B1AAF21359A94001AA2B9 /* Main.storyboard in Resources */,
+				321B1AC021359FDD001AA2B9 /* Storyboard.storyboard in Resources */,
+				321B1AC82135A5DF001AA2B9 /* Media.xcassets in Resources */,
+				321B1ABE21359B61001AA2B9 /* minecraft.txt in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -135,22 +145,16 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				321B1AAC21359A94001AA2B9 /* ViewController.swift in Sources */,
+				321B1AC22135A00F001AA2B9 /* ViewController.swift in Sources */,
 				321B1AAA21359A94001AA2B9 /* AppDelegate.swift in Sources */,
+				321B1ABC21359AC9001AA2B9 /* DataModle.swift in Sources */,
+				321B1ACA2135AB30001AA2B9 /* DetailViewController.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
 /* End PBXSourcesBuildPhase section */
 
 /* Begin PBXVariantGroup section */
-		321B1AAD21359A94001AA2B9 /* Main.storyboard */ = {
-			isa = PBXVariantGroup;
-			children = (
-				321B1AAE21359A94001AA2B9 /* Base */,
-			);
-			name = Main.storyboard;
-			sourceTree = "<group>";
-		};
 		321B1AB221359A95001AA2B9 /* LaunchScreen.storyboard */ = {
 			isa = PBXVariantGroup;
 			children = (
@@ -279,7 +283,6 @@
 		321B1AB921359A95001AA2B9 /* Debug */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
-				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				CODE_SIGN_STYLE = Automatic;
 				DEVELOPMENT_TEAM = R9JTLA9B26;
 				INFOPLIST_FILE = MincraftDicFazitFinal/Info.plist;
@@ -297,7 +300,6 @@
 		321B1ABA21359A95001AA2B9 /* Release */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
-				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				CODE_SIGN_STYLE = Automatic;
 				DEVELOPMENT_TEAM = R9JTLA9B26;
 				INFOPLIST_FILE = MincraftDicFazitFinal/Info.plist;
